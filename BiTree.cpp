@@ -1,4 +1,5 @@
-#include "stdafx.h"
+// Binary Tree
+#include "stdio.h"
 #include "windows.h"
 #define OK 1
 #define ERROR 0
